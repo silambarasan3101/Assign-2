@@ -1,0 +1,17 @@
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\nunit.framework.dll
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\nunit.framework.xml
+D:\Training\phase3\day2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+D:\Training\phase3\day2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+D:\Training\phase3\day2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+D:\Training\phase3\day2\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CopyComplete
+D:\Training\phase3\day2\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+D:\Training\phase3\day2\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\NUnit3.TestAdapter.dll
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\nunit.engine.dll
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\nunit.engine.api.dll
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\nunit.engine.core.dll
+D:\Training\phase3\day2\Assignment2\Assignment2\bin\Debug\testcentric.engine.metadata.dll
